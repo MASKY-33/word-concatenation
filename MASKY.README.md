@@ -1,7 +1,7 @@
 # Word Concatenation Program
 This program asks the user to enter two words and then prints the two words combined into one string.
 
-# Features
+## Features
 - Asks the user for a first word
 - Asks the user for a second word
 - Concatenates both words
